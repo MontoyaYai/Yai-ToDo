@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/ABaddnew"
+    android:icon="@drawable/addnew"
+    app:showAsAction="ifRoom"
+        tools:ignore="MenuTitle" />
+
+    <item android:id="@+id/ABclear"
+        android:icon="@drawable/clearitem"
+        app:showAsAction="ifRoom"
+        tools:ignore="MenuTitle"
+         />
+
+
+    <!-- static-->
+    <item android:id="@+id/ABnew"
+        app:showAsAction="never"
+        android:title="New" />
+
+    <item android:id="@+id/ABreset"
+        app:showAsAction="never"
+        android:title="Reset" />
+
+    <item android:id="@+id/ABexit"
+        app:showAsAction="never"
+        android:title="Exit" />
+
+
+
+
+
+
+
+
+
+
+</menu>
