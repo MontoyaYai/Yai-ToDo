@@ -4,12 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2405" />
+        <entry key="app/src/main/res/drawable/imagecreate.xml" value="0.2385" />
         <entry key="app/src/main/res/drawable/memoradiusbackground.xml" value="0.2405" />
         <entry key="app/src/main/res/drawable/menuicon.xml" value="0.2405" />
         <entry key="app/src/main/res/drawable/resetall.xml" value="0.2405" />
-        <entry key="app/src/main/res/layout/activity_create.xml" value="0.1956521739130435" />
+        <entry key="app/src/main/res/layout/activity_create.xml" value="0.18469431380932022" />
+        <entry key="app/src/main/res/layout/activity_imagen_view.xml" value="0.17905982905982906" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1956521739130435" />
         <entry key="app/src/main/res/layout/activity_todo_list.xml" value="0.18568840579710144" />
+        <entry key="app/src/main/res/layout/activity_view_todo.xml" value="0.25" />
         <entry key="app/src/main/res/layout/radiusbackground.xml" value="0.1852355072463768" />
         <entry key="app/src/main/res/menu/menu1.xml" value="0.234375" />
       </map>
