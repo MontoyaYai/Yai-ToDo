@@ -14,19 +14,25 @@
         tools:ignore="MenuTitle"
          />
 
+    <item
+        android:id="@+id/ABexit"
+        android:icon="@drawable/exitapp"
+        app:showAsAction="ifRoom"
+        tools:ignore="MenuTitle"/>
 
-    <!-- static-->
-    <item android:id="@+id/ABnew"
-        app:showAsAction="never"
-        android:title="New" />
 
-    <item android:id="@+id/ABreset"
-        app:showAsAction="never"
-        android:title="Reset" />
+<!--    &lt;!&ndash; static&ndash;&gt;-->
+<!--    <item android:id="@+id/ABnew"-->
+<!--        app:showAsAction="never"-->
+<!--        android:title="New" />-->
 
-    <item android:id="@+id/ABexit"
-        app:showAsAction="never"
-        android:title="Exit" />
+<!--    <item android:id="@+id/ABreset"-->
+<!--        app:showAsAction="never"-->
+<!--        android:title="Reset" />-->
+
+<!--    <item android:id="@+id/ABexit"-->
+<!--        app:showAsAction="never"-->
+<!--        android:title="Exit" />-->
 
 
 

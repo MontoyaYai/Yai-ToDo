@@ -15,7 +15,7 @@ public class ImagenViewActivity extends AppCompatActivity {
         setContentView(R.layout.activity_imagen_view);
 
         ImageView fullImageView = findViewById(R.id.fullImageView);
-        Intent intent =getIntent();
+        Intent intent = getIntent();
         Uri imageUri = (intent!=null)?intent.getParcelableExtra("image"):null;
         fullImageView.setImageURI(imageUri);
     }
